@@ -1,0 +1,20 @@
+body{
+    color: red;
+    background: aquamarine;
+}
+
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+
+.person{
+    color: yellow;
+    background-color: red;
+}
+
+#camera{
+    border: 2px solid purple;
+    width: 350px;
+    height: 300px;
+}
